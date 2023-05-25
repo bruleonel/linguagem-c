@@ -115,8 +115,11 @@ Uma árvore binária é uma estrutura de dados que pode ser representada como um
 Exemplo:     
 
 T.a = { R.a, E.a, D.a }
+
 R.a = {A}
+
 E.a = T.b
+
 D.a = T.c
 
 <div align="center">
@@ -145,3 +148,25 @@ Os nós acima são nós **ancestrais** e abaixo **descendente**.
 <div align="center">
     <img src="img/b.png">
 </div>
+
+## Arvores Estritamente Binárias
+
+<div align="center">
+    <img src="img/exb.png">
+</div>
+
+Árvore estritamente binária: Cada nó possui exatamente 0 ou 2 filhos. Árvore binária completa: Nós com menos de 2 filhos ficam no úlimo ou no penúltimo nível da árvore. Árvore binária cheia: Nós com menos de 2 filhos ficam no último nível da árvore.
+
+``n° de nós = (2*folhas) -1``
+
+Seguindo o exemplo: Nós = (6 * 2) -1   =>   Nós = 11.
+
+## Arvores Binárias Completa
+
+<div align="center">
+    <img src="img/abc.png">
+</div>
+
+Árvore binária completa : em uma árvore binária completa todos os níveis, exceto possivelmente o último , está completamente cheia, e todos os nós no último nível são, tanto à esquerda quanto possível. Assim fica claro entender o termo, "tanto à esquerda quanto possível". Caso contrário, os nós vão se sobrepôr.
+
+*Obs: Uma árvore binária completa também é uma árvore estritamente binária, porém uma árvore binária não é, necessariamente, uma árvore binária completa!*
