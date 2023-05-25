@@ -1,4 +1,4 @@
-# Anotações Importantes
+# Anotações Importantes | Estruturas de Dados I
 
 Cada arquivo dessa aula será referente à uma aula prática, então esse projeto tem por objetivo ser um diário de estudos e não um projeto real.
 
@@ -55,7 +55,9 @@ O operador sizeof indica a quantidade de armazenamento, em bytes, necessária pa
 
 ### Pilha || Stack
 
-<img src="/img/pilha.png">
+<div align="center">
+    <img src="/img/pilha.png">
+</div>
 
 Pilha ou stack é uma lista linear em que todas as inserções e remoções de elemento só podem ser feitos em uma extremidade chamada topo.As pilhas também são chamadas de estruturas LIFO (Last In First Out) ou seja o último elemento inserido é o primeiro removido.
 
@@ -70,3 +72,76 @@ struct tipo_pilha {
     int topo;
 }
 ````
+
+### Fila
+
+<div align="center">
+    <img src="/img/fila.png">
+</div>
+
+Este tipo de estrutura de dados é dita ser FIFO (First in, first out), ou seja, o primeiro elemento a entrar na estrutura é o primeiro a sair. O nome fila, por si só, já é auto-explicativo. Imagine uma fila de banco. A primeira pessoa que chegou na fila, é a que vai ser atendida primeiro.
+
+**Estrutura de Dados da Fila**
+
+````
+struct tipo_pilha {
+    int dados [tamanho];
+    int inicio;
+    int fim;
+}
+````
+
+# Anotações Importantes | Estruturas de Dados Dois
+
+## Arvores Binárias
+
+<div align="center">
+    <img src="img/arvore.png">
+</div>
+
+Uma árvore binária é uma estrutura de dados que pode ser representada como uma hierarquia onde cada elemento é chamado de nó. O nó inicial ou o primeiro elemento é chamado de raiz.
+
+*Só existe um caminho de um nó ao outro*
+
+**Definição:** Conjunto finito de elementos T = { R, E, D}
+
+- No exemplo acima há três subconjuntos distintos:
+- Raiz (R);
+- Subárvore binária esquerda (E);
+- Subárvore binária direita (D).
+
+- Pode ser vazio, T = 0.
+
+Exemplo:     
+
+T.a = { R.a, E.a, D.a }
+R.a = {A}
+E.a = T.b
+D.a = T.c
+
+<div align="center">
+    <img src="img/b1.png">
+    <img src="img/b2.png">
+</div>
+
+Nesse exemplo A é pai de B e C, da mesma maneira C e B é filho de A. Um nó sem filho é um nó folha.
+
+Os nós acima são nós **ancestrais** e abaixo **descendente**.
+
+### Nível
+
+<div align="center">
+    <img src="img/ni.png">
+</div>
+
+### Altura
+
+<div align="center">
+    <img src="img/h.png">
+</div>
+
+*Obs: Qual a altura de B?*
+
+<div align="center">
+    <img src="img/b.png">
+</div>
