@@ -62,6 +62,15 @@ Como saber o tamanho do vetor?
 
 ## Listas
 
+### Listas Simplesmente Encadeadas
+![Captura de tela 2023-05-29 195716](https://github.com/bruleonel/linguagem-c/assets/104650333/b7c0a396-557f-43ab-93cf-f5de5cb22351)
+
+### Listas Duplamente Encadeadas
+![Captura de tela 2023-05-29 195726](https://github.com/bruleonel/linguagem-c/assets/104650333/49ad677b-3039-45b1-b6dd-540131415ee7)
+
+### Listas 
+![Captura de tela 2023-05-29 200123](https://github.com/bruleonel/linguagem-c/assets/104650333/35c9893f-ec2f-4a3f-88ac-518354a1c8df)
+
 ### Pilha || Stack
 
 <div align="center">
