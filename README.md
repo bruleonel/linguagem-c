@@ -170,3 +170,14 @@ Seguindo o exemplo: Nós = (6 * 2) -1   =>   Nós = 11.
 Árvore binária completa : em uma árvore binária completa todos os níveis, exceto possivelmente o último , está completamente cheia, e todos os nós no último nível são, tanto à esquerda quanto possível. Assim fica claro entender o termo, "tanto à esquerda quanto possível". Caso contrário, os nós vão se sobrepôr.
 
 *Obs: Uma árvore binária completa também é uma árvore estritamente binária, porém uma árvore binária não é, necessariamente, uma árvore binária completa!*
+
+
+## Implementação de Árvores Binárias
+
+**Estática:** Sem registros e com registros;
+**Dinâmicas:** Utiliza registros com ponteiros.
+
+### Busca em árvores Binárias
+
+- Árvore binária ordenada;
+- Árvore balanceada.
