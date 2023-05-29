@@ -8,6 +8,7 @@ Para executar a linguagem C no VC, utilizei um compilador fora do editor (o ming
 
 Fontes: Universidade Unicesumar e Livro Estruturas de Dados I, Estruturas de Dados II.
 
+## Ponteiros
 ![ao-vivo1](https://github.com/bruleonel/linguagem-c/assets/104650333/192db369-d31c-478b-9676-a517e6f28e1a)
 
 
@@ -56,6 +57,7 @@ int main() {
 
 O operador sizeof indica a quantidade de armazenamento, em bytes, necessária para armazenar um objeto do tipo do operando.
 
+Como saber o tamanho do vetor?
 ![como-saber-o-tamanho-do-vetor](https://github.com/bruleonel/linguagem-c/assets/104650333/9d549085-1c46-4167-b1ec-a449b83b99cb)
 
 ## Listas
