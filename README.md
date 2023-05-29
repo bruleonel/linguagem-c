@@ -8,6 +8,9 @@ Para executar a linguagem C no VC, utilizei um compilador fora do editor (o ming
 
 Fontes: Universidade Unicesumar e Livro Estruturas de Dados I, Estruturas de Dados II.
 
+![ao-vivo1](https://github.com/bruleonel/linguagem-c/assets/104650333/192db369-d31c-478b-9676-a517e6f28e1a)
+
+
 ## Malloc
 A função malloc aloca um espaço de memória e retorna um ponteiro do tipo void para o início do espaço de memória alocado.
 
@@ -17,6 +20,7 @@ A função malloc aloca um espaço de memória e retorna um ponteiro do tipo voi
 <ponteiro> = (<cast>*) malloc(<tamanho em bytes>); 
 p = (int*) malloc(4);
 ````
+![malloc](https://github.com/bruleonel/linguagem-c/assets/104650333/6b623f6b-6688-44b9-b00f-4cbe811fb2e3)
 
 ## Free
 A função free libera o espaço de memória alocado.
@@ -51,6 +55,9 @@ int main() {
 ### Sizeof
 
 O operador sizeof indica a quantidade de armazenamento, em bytes, necessária para armazenar um objeto do tipo do operando.
+
+![como-saber-o-tamanho-do-vetor](https://github.com/bruleonel/linguagem-c/assets/104650333/9d549085-1c46-4167-b1ec-a449b83b99cb)
+
 ## Listas
 
 ### Pilha || Stack
