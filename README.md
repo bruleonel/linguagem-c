@@ -2,9 +2,9 @@
 
 Cada arquivo dessa aula será referente à uma aula prática, então esse projeto tem por objetivo ser um diário de estudos e não um projeto real.
 
-Para executar a linguagem C no VC, utilizei um compilador fora do editor (o mingw) e mais as extensões do VC para a linguagem C mas eles podem ser executas facilmente <a href="https://replit.com/">aqui</a>, só se cadastrar e na página principal clicar em Create Repl, depois você pode copiar o código e colar ali.
+Para executar a linguagem C no VC, você pode utilizar um compilador fora do editor (o mingw), o que será um tanto trabalhoso, e  as extensões do VC para a linguagem C, entretanto, você pode executar facilmente <a href="https://replit.com/">aqui</a>, que é a ferremanta que eu uso, é só se cadastrar e na página principal clicar em Create Repl, depois você pode copiar o código de cada arquivo aqui e colar ali.
 
-*OBS: Não é possível, ou pelo menos não encontrei informações referente à configuração UTF-8, para lingua portuguesa, então aqui não haverá palavras com caracteres especiais*
+*OBS: Em C dependendo da ferramenta, não é possível, ou pelo menos ainda não encontrei informações sobre, utilizar acentuações atravéz da configuração UTF-8 para caracteres especiais contidos na  lingua portuguesa*
 
 Fontes: Universidade Unicesumar e Livro Estruturas de Dados I, Estruturas de Dados II.
 
