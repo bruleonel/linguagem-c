@@ -1,5 +1,5 @@
 # Anotações Importantes | Estruturas de Dados I
-
+*OBS.: ESTE PROJETO FOI DESENVOLVIDO NAS SEMANAS 17 E 18 DO PROGRAMA DESENVOLVE*
 Cada arquivo dessa aula será referente à uma aula prática, então esse projeto tem por objetivo ser um diário de estudos e não um projeto real.
 
 Para executar a linguagem C no VC, você pode utilizar um compilador fora do editor (o mingw), o que será um tanto trabalhoso, e  as extensões do VC para a linguagem C, entretanto, você pode executar facilmente <a href="https://replit.com/">aqui</a>, que é a ferremanta que eu uso, é só se cadastrar e na página principal clicar em Create Repl, depois você pode copiar o código de cada arquivo aqui e colar ali.
