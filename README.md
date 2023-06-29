@@ -77,6 +77,13 @@ Como saber o tamanho do vetor?
     <img src="/img/pilha.png">
 </div>
 
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/c681cb32-50f2-4e49-9344-c955858bd898)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/dd2e27ea-45a0-4ccc-8ff1-4a35f6672fc9)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/22e77178-6def-48c6-a103-5246f1b60358)
+
+
+
 Pilha ou stack é uma lista linear em que todas as inserções e remoções de elemento só podem ser feitos em uma extremidade chamada topo.As pilhas também são chamadas de estruturas LIFO (Last In First Out) ou seja o último elemento inserido é o primeiro removido.
 
 **Push** Empilhar | **Pop** Desempilhar
@@ -96,6 +103,13 @@ struct tipo_pilha {
 <div align="center">
     <img src="/img/fila.png">
 </div>
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/06dd040d-2d80-4fc0-8a17-1cefdd7cb380)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/9948d137-ab73-4387-9d8d-fcc62cd5e0e9)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/bc602808-93f5-4348-98cd-c95083f23fb8)
+
+
+
 
 Este tipo de estrutura de dados é dita ser FIFO (First in, first out), ou seja, o primeiro elemento a entrar na estrutura é o primeiro a sair. O nome fila, por si só, já é auto-explicativo. Imagine uma fila de banco. A primeira pessoa que chegou na fila, é a que vai ser atendida primeiro.
 
