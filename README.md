@@ -11,6 +11,12 @@ Fontes: Universidade Unicesumar e Livro Estruturas de Dados I, Estruturas de Dad
 ## Ponteiros
 ![ao-vivo1](https://github.com/bruleonel/linguagem-c/assets/104650333/192db369-d31c-478b-9676-a517e6f28e1a)
 
+## sizeof()
+
+Retorna o tamnanho em bits
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/dd422489-9671-4d2f-bd8e-73888df3e6f2)
+
+
 
 ## Malloc
 A função malloc aloca um espaço de memória e retorna um ponteiro do tipo void para o início do espaço de memória alocado.
