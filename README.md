@@ -16,6 +16,10 @@ Fontes: Universidade Unicesumar e Livro Estruturas de Dados I, Estruturas de Dad
 Retorna o tamnanho em bits
 ![image](https://github.com/bruleonel/linguagem-c/assets/104650333/dd422489-9671-4d2f-bd8e-73888df3e6f2)
 
+Retorno:
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/f3de4b1e-cd6a-45b5-b4a3-379895970349)
+
+
 
 
 ## Malloc
