@@ -9,17 +9,42 @@ Para executar a linguagem C no VC, você pode utilizar um compilador fora do edi
 Fontes: Universidade Unicesumar e Livro Estruturas de Dados I, Estruturas de Dados II.
 
 ## Ponteiros
+
+Ex1:
+
 ![ao-vivo1](https://github.com/bruleonel/linguagem-c/assets/104650333/192db369-d31c-478b-9676-a517e6f28e1a)
+
+Ex2:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/f93e3d19-1e35-4044-a78c-d6d7ec1da859)
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/ac0be514-bf39-4ff6-9e3f-0a403b6deff8)
+
+*Obs:. A função imprimir só conseguiu alterar o endereço porque recebeu o endereço e não a variável*
+
 
 ## sizeof()
 
 Retorna o tamnanho em bits
+
 ![image](https://github.com/bruleonel/linguagem-c/assets/104650333/dd422489-9671-4d2f-bd8e-73888df3e6f2)
 
 Retorno:
+
 ![image](https://github.com/bruleonel/linguagem-c/assets/104650333/f3de4b1e-cd6a-45b5-b4a3-379895970349)
 
+## Vetor
 
+O vetor já é uma ponteiro!
+*OBS:. Cuidado ao guardar informações no vetor sem a alocação da memória, ele até aceita, porém pode ser sobreposto por outros programas*
+
+EX:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/20ce061a-f5d1-4ca1-98d0-330c8131f8eb)
+
+Quando você quiser descobrir a quantidade de elementos de um vetor:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/70777474-17a7-4153-9f60-4f9c6dbe4fc9)
 
 
 ## Malloc
