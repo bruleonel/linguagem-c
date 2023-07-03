@@ -17,6 +17,8 @@ Ex:
 
 ![image](https://github.com/bruleonel/linguagem-c/assets/104650333/88768827-bc69-4016-a3d7-2386b67e75e0)
 
+Nesse exemplo, limitamos os número até o 100, aplicando % 100.
+
 
 ## Ponteiros
 
