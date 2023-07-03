@@ -19,6 +19,16 @@ Ex:
 
 Nesse exemplo, limitamos os número até o 100, aplicando % 100.
 
+## Matriz
+
+Lendo dados:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/96161758-2843-45fa-90ac-9259aee25eb4)
+
+Preenchendo dados digitados:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/1ca5e8ba-c91e-4eff-a3ba-f293623bd26f)
+
 
 ## Ponteiros
 
