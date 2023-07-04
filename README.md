@@ -180,6 +180,59 @@ struct tipo_pilha {
 }
 ````
 
+## Busca Em Profundidade (Pilha)
+
+Primeiro, empilhamos: 
+
+No a, você tem algum nó adjacente não visitado? Se sim, empilha, se não desempilha:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/4401cf0b-f7e2-4119-a859-471207492209)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/0a67ffb4-3406-4335-a497-4b908dd23f1f)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/eb07eff7-6386-4676-9996-909821dea779)
+
+Depois Desempilhamos: 
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/10ffb233-6f5e-4fab-9942-0e993decd713)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/d54dddcf-f1d9-4784-bfe2-484cdaaf6695)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/365620eb-6005-42ca-9b61-51f682fbc037)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/0bed5b2b-3736-4af8-a810-726cb747ab22)
+
+
+## Busca Em Largura (Fila)
+
+Enfileirandoo:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/36872ee5-f51d-4d40-a942-3046d8cc53fe)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/ae723c56-6b5a-4a16-af53-ef7273ffaebc)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/05950e0b-062d-42b4-a5f0-09e40f3986fd)
+
+No a, você tem algum nó adjacente não visitado? Se sim, visita, se não desenfilera:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/8ca58f20-03f2-4497-a975-2ce1a1621a39)
+
+*Nó "a" foi desinfileirado e o b é a corrente*
+
+No "b", você tem algum nó adjacente não visitado? Se sim, visita, se não desenfilera:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/52abadeb-7fc7-4196-9387-2c3e7b805752)
+
+*Nó "c" não foi visitado, visita ele e enfilera*
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/dc11ce9a-bccc-48ef-955d-4c0660bbc197)
+
+No "c", você tem algum nó adjacente não visitado? Se sim, visita, se não desenfilera:
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/ac6819bc-122a-4039-9186-24d9dfd211c3)
+
+*Nó "b" foi desinfileirado*
+
+*Nó "d" foi desinfileirado*
+
+*Nó "c" foi desinfileirado*
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/106cfebb-0011-4ed1-a7e8-b23276c2ffc2)
+
+
 # Anotações Importantes | Estruturas de Dados Dois
 
 ## Arvores Binárias
