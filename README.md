@@ -1,4 +1,4 @@
-![image](https://github.com/bruleonel/linguagem-c/assets/104650333/9ed4be58-cddf-4131-89c7-4ee61d9d5db0)# Anotações Importantes | Estruturas de Dados I
+# Anotações Importantes | Estruturas de Dados I
 
 Cada arquivo dessa aula será referente à uma aula prática, então esse projeto tem por objetivo ser um diário de estudos e não um projeto real.
 
