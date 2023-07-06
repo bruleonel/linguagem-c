@@ -1,4 +1,4 @@
-# Anotações Importantes | Estruturas de Dados I
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/9ed4be58-cddf-4131-89c7-4ee61d9d5db0)# Anotações Importantes | Estruturas de Dados I
 
 Cada arquivo dessa aula será referente à uma aula prática, então esse projeto tem por objetivo ser um diário de estudos e não um projeto real.
 
@@ -323,3 +323,50 @@ Seguindo o exemplo: Nós = (6 * 2) -1   =>   Nós = 11.
 
 - Árvore binária ordenada;
 - Árvore balanceada.
+- 
+## Rotação Dupla Direita-Esquerda
+
+**Direita**
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/d4b0b0e3-3c29-4166-8cd9-217ac7d48a79)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/929effe4-ced7-4297-aee7-d49500ca9d84)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/c0f5f431-c7a0-4e06-a9c1-ac9be340ba46)
+
+**Esquerda**
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/ec4c6d25-ceae-42cb-b7ea-754fc8dc9178)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/832f42a0-37d7-4216-960b-523258351a5e)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/0f666a3d-8f43-456f-917e-ac5538484f66)
+
+**Ex:**
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/89367b8b-ea24-4d83-b2dd-22fbb9a5c7c0)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/4f778d02-4e31-44ed-8de9-9d0a9e2ad7a9)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/55ab543d-d7ae-4751-b774-8100c0861836)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/b8aecb08-b43c-4087-9a6a-79a46c279329)
+
+## Rotação Dupla Esquerda-Direita
+
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/563d0f35-9de2-4c12-8ca4-919db37cb30d)
+
+**Abrindo o "x"**
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/587a05c3-4864-4516-98a7-fe89248d09d8)
+
+**Esquerda**
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/57f8b8b6-7a39-4e76-b3a8-f9a5917d8ee1)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/ee7e095e-fc70-419e-83c2-6560cde5fd3e)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/67c7c1ec-452c-4133-ae47-483c579e9105)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/adbfad7d-345a-455b-ac1a-a4dad2ec88ba)
+
+**Direita**
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/4ff52de1-12d0-4b47-95ca-49992b7eca78)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/0bbf1767-a9a2-4e51-a77a-da2fd029ebae)
+
+**Ex:**
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/4a56fced-b3d9-42cd-ae9c-7b91278be4b7)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/561d84e1-39f5-4b04-9091-52a3d7d9b6b0)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/9e3e2947-a478-4be6-bdbf-1ed375adcf26)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/ae226fbe-8119-4e5b-a92f-7f0d498b19bf)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/2f6fc185-8b38-47e2-aea0-386e3052eb7e)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/1f680a34-dc51-43d2-85f4-a03acbfa6561)
+![image](https://github.com/bruleonel/linguagem-c/assets/104650333/fb25a72d-1490-4c2e-9db6-b88bf171e1a3)
+
+
+
